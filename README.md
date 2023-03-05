@@ -32,6 +32,8 @@ This was a 3-d model to show the clustering and I added the algorithm and the co
 
 Lastly, I built a scatter plot to also show the clustering and the few outliers
 
+![image](https://user-images.githubusercontent.com/114685724/222985591-c375d231-3c91-49a1-9c07-a827a2e3dff0.png)
+
 
 ## Summary
 
